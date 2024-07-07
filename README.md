@@ -3,7 +3,7 @@ Corpus of Spontaneous Japanese Speech under Real Noisy Environments
 			(c) Speech Media Lab,. Kyoto University  
   
   
-headset/	      recording by headset  
+headset/ &emsp; &emsp; &emsp; &emsp; recording by headset  
 respeaker/	      recording by 4-channel microphone-array respeaker  
 	6-channel audio files including mixed and enhanced signals  
 trans/		      transcript text  
